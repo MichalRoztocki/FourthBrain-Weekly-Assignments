@@ -1,0 +1,6 @@
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+week-3-analyze-sentiment-subreddit/nb/reddit_secrets.py
+week-3-analyze-sentiment-subreddit/nb/.vs/
+week-3-analyze-sentiment-subreddit/nb/__pycache__/
